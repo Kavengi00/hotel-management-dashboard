@@ -3,7 +3,7 @@
 **📊 Project Title**: Hotel Performance Analytics Dashboard  
 **📁 File**: `Hotel_Management_Dashboard.pbix`  
 **📌 Hosted On**: Power BI Service, Onedrive  
-**🔗 Dashboard OneDrive Access**: [Click here to view live the file](https://1drv.ms/u/c/57e649f8ecfcde37/EfyuXngsqydEroRms5LQvZwBSdSIvVjglR4xnqN31psJJw?e=8k4Rgw) 
+**🔗 Dashboard OneDrive Access**: [Click here to view the file](https://1drv.ms/u/c/57e649f8ecfcde37/EfyuXngsqydEroRms5LQvZwBSdSIvVjglR4xnqN31psJJw?e=8k4Rgw) 
 **🔗 Dashboard Power Bi Service Access**: [Click here to view live dashboard](https://app.powerbi.com/reportEmbed?reportId=b0140882-07cf-45f2-bc97-08ad7c23372c&autoAuth=true&ctid=14f13a17-3cb4-408b-b8e4-770d44d82165)
 **📂 Dataset**: [Download hotel dataset](https://drive.google.com/drive/folders/1KsytgHuos_pvs3aaHENGFLMYEY48ZftM?usp=sharing)
 
